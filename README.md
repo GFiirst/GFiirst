@@ -2,9 +2,12 @@
 
 **`Backend Developer`**
 
-Hi, I'm Geovane Fiirst, a Brazilian backend developer with strong full stack experience.
+Hi, I'm Geovane Fiirst, a Brazilian backend developer with strong full stack experience and a degree in Systems Analysis and Development (ADS).
+
 Much of my work has been developed in private company repositories, so my public GitHub activity does not fully reflect my experience.
+
 I'm actively working on building and sharing more personal and open-source projects.
+
 
 ---
 
